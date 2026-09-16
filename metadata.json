@@ -1,0 +1,6 @@
+{
+  "name": "Giáo viên Chủ nhiệm",
+  "description": "Hệ thống quản lý lớp học toàn diện cho giáo viên chủ nhiệm THPT: học sinh, điểm danh, hạnh kiểm, tài chính và sổ liên lạc",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
